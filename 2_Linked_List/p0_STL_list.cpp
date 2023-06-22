@@ -1,3 +1,6 @@
+//BOJ 1406
+//https://www.acmicpc.net/problem/1406
+
 #include <iostream>
 #include <string>
 #include <list>
