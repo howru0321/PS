@@ -66,4 +66,7 @@
     - BFS
     - DFS
     - Back Tracking
-2. 
+2. parking_fee_calculator
+    - Hash Table/Map
+    - String Manipulation
+    - Mathematical Implementation
