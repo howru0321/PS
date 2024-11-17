@@ -61,12 +61,15 @@
 - Trie Data Structure
 
 ## Solved
-1. word_ladder
+1. Word Ladder
     - Brute Force
     - BFS
     - DFS
     - Back Tracking
-2. parking_fee_calculator
+2. Parking Fee Calculator
     - Hash Table/Map
     - String Manipulation
     - Mathematical Implementation
+3. Bridge Trucks
+    - Queue
+    - Simulation
