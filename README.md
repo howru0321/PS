@@ -60,6 +60,8 @@
 - Topological Sort
 - Trie Data Structure
 
+
+
 ## Solved
 1. Word Ladder
     - Brute Force
@@ -69,7 +71,8 @@
 2. Parking Fee Calculator
     - Hash Table/Map
     - String Manipulation
-    - Mathematical Implementation
+    - Mathematical
+    - Implementation
 3. Bridge Trucks
     - Queue
     - Simulation
@@ -77,3 +80,7 @@
     - Heap
 5. Installation of Pillars and Beams
     - Simulation
+6. Archery Compitition
+    - Brute Force
+    - DFS
+    - Backtracking
