@@ -1,6 +1,12 @@
 # Parking Fee Calculator
 [link](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 
+## Category
+- Hash Table/Map
+- String Manipulation
+- Mathematical
+- Implementation
+## Explain
 - time complexity : O(N logN)
     - map은 자동정렬이 되므로 각 N번의 insert마다 log N
 - space complexity : O(N)
