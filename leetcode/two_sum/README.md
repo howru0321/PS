@@ -1,4 +1,5 @@
 # Two Sum
+[link](https://leetcode.com/problems/two-sum/description/)
 
 ## Category
 - Hash Table/Map
