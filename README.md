@@ -1,5 +1,6 @@
 # PS
 [link1](https://velog.io/@pppp0722/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8%EC%A0%9C-%EC%9C%A0%ED%98%95-%EC%A0%95%EB%A6%AC)
+[link2](https://leetcode.com/studyplan/leetcode-75/)
 
 
 ## Category
@@ -59,3 +60,4 @@
 - Union Find (Disjoint Set)
 - Topological Sort
 - Trie Data Structure
+- Prefix Sum
